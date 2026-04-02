@@ -83,18 +83,4 @@ Strong focus on:
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Engineering**  
-Pokhara University (2019 – 2024)  
-GPA: 3.22 (Scholarship)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=stezan1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stezan1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stezan1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=stezan1&icon=0&color=0)](https://visitcount.itsvg.in)
