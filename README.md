@@ -61,7 +61,7 @@ Strong focus on:
 
 ### Full Stack Developer Trainee — Maheshwari Foundation (Dec 2023 – Jun 2024)
 - Intensive training in .NET, Angular, SQL Server, and web development  
-
+- Mentored by Shiv Prasad Koirala, founder of Questpond and Technical Officer of Danphe HIMS
 ---
 
 ## Key Projects
