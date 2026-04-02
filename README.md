@@ -64,16 +64,20 @@ Strong focus on:
 
 ---
 
-## 📌 Key Projects
+## Key Projects
 
-### 🩸 Blood Donation System
-- Java, Spring Boot, MySQL, Firebase Cloud Messaging  
-- Android-based donor-recipient coordination platform  
+### Accreditation Management System — .NET 10, Angular 18, MS SQL Server
+Designed and developed a full-scale system from scratch, currently deployed at [qaa.qualitytvet.org.np](https://qaa.qualitytvet.org.np). Implemented end-to-end functionality aligned with accreditation workflows, including CI/CD and production hosting.
 
-### 🚌 Bus Ticketing System
-- .NET WinForms, MSSQL  
-- Desktop-based booking and management system  
+### Danphe HIMS (Open Source Contribution) — .NET, Angular, SQL Server
+Actively contributed to development and enhancement of hospital management modules, improving system functionality and reliability in an open-source healthcare platform.  
+GitHub Repository: [hospital-management-system-emr](https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource)
 
+### Blood Donation System — Java, Spring Boot, MySQL, Firebase Cloud Messaging
+Android-based donor-recipient coordination platform.
+
+### Bus Ticketing System — .NET WinForms, MSSQL
+Desktop-based booking and management system.
 ---
 
 ## 🏆 Achievements
